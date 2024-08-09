@@ -1,4 +1,25 @@
+/* Diego Garcia UAT August 9 2024
+diegarci@uat.edu*/
 .recipeImage {
    width: 200px;
    height: auto;
+   
 }
+/* added button styleguide */
+.button {
+   background-color: #e0eee9;
+   border: none;
+   color: white;
+   padding: 10px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 10px;
+   margin: 3px 2px;
+ }
+ 
+ .button1 {border-radius: 2px;}
+ .button2 {border-radius: 4px;}
+ .button3 {border-radius: 8px;}
+ .button4 {border-radius: 12px;}
+ .button5 {border-radius: 50%;}
